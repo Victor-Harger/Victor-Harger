@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=38&fontColor=ffffff&fontAlignY=50&fontAlign=50&fontFamily=Raleway"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs)](https://git.io/typing-sv)
