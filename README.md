@@ -25,8 +25,6 @@
 
 Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac e tenho foco em desenvolvimento Backend.
 
-Tenho trabalhado principalmente com Java, Spring Boot, C#, Python e bancos de dados, além de possuir experiência acadêmica com desenvolvimento Web e aplicações.
-
 Meu objetivo é continuar desenvolvendo projetos que me permitam transformar conhecimento teórico em software funcional e construir experiência profissional na área de desenvolvimento.
 
 ---
