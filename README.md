@@ -82,17 +82,6 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## Background
 
 |    |                                                                                 |
@@ -100,8 +89,8 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 | 🎓 | **ADS — Senac** *(3º semestre · previsão 2027)*                                 |
 | 🏫 | **Técnico em Desenvolvimento de Sistemas — Etec / Centro Paula Souza** *(2024)* |
 | 🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
-| 🎮 | **CS50G — Introduction to Game Development** · Harvard *(em andamento)*         |
-| ☁️ | **AI-900 — Fundamentos de IA no Azure** · Microsoft *(em andamento)*            |
+| 🎮 | **CS50G — Introduction to Game Development** · Harvard                          |
+| ☁️ | **AI-900 — Fundamentos de IA no Azure** · Microsoft                             |
 
 ---
 
