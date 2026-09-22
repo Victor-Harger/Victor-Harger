@@ -31,19 +31,19 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ### Backend
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,cs,python,nodejs,postman,git&theme=dark" />
 </p>
 
 ### Web
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
 </p>
 
 ### Databases
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" />
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" />
@@ -51,7 +51,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ### Mobile, Game Development & Other
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
@@ -60,11 +60,11 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ## Atualmente estudando
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
 </p>
 
-<div align="left">
+<div align="center">
 
 **Docker · Kubernetes · AWS · Cloud Infrastructure**
 
@@ -85,9 +85,23 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 ## Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
+
+---
+
+## Background
+
+|    |                                                                                 |
+| -- | ------------------------------------------------------------------------------- |
+| 🎓 | **ADS — Senac** *(3º semestre · previsão 2027)*                                 |
+| 🏫 | **Técnico em Desenvolvimento de Sistemas — Etec / Centro Paula Souza** *(2024)* |
+| 🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
+| 🎮 | **CS50G — Introduction to Game Development** · Harvard *(em andamento)*         |
+| ☁️ | **AI-900 — Fundamentos de IA no Azure** · Microsoft *(em andamento)*            |
 
 ---
 
