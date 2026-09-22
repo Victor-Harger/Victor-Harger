@@ -39,7 +39,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 |                                          Projeto                                          |                                       Descrição                                       |               Tecnologias              |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
-|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript`         |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript` `JavaScript`         |
 |              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
 
