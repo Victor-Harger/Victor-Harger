@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# Victor Gabriel Prado Harger
-
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
 [🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
