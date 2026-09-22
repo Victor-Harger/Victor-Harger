@@ -102,18 +102,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 <div align="center">
 
-## Estatísticas
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## Background
+## Acadêmico
 
 |     |                                                                                 |
 | :-: | :------------------------------------------------------------------------------ |
