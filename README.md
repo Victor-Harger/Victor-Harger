@@ -40,7 +40,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 |                                          Projeto                                          |                                       Descrição                                       |               Tecnologias              |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
-|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript` `JavaScript`         |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |   `Angular` `TypeScript` `JavaScript`  |
 |              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
 
@@ -94,6 +94,19 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 </p>
 
 **Docker · Kubernetes · AWS · Cloud Infrastructure**
+
+</div>
+
+---
+
+<div align="center">
+
+## Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+</p>
 
 </div>
 
