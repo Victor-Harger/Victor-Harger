@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50"/>
 
 <div align="center">
 
