@@ -38,9 +38,9 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 <div align="center">
 
-|                                          Projeto                                          |                                      Descrição                                      |              Tecnologias               |
+|                                          Projeto                                          |                                       Descrição                                       |               Tecnologias              |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
-|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       Sistema web para gerenciamento e venda de ingressos para uma casa de shows.       |          `Angular` `TypeScript` `JavaScript`          |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript` `JavaScript`         |
 |              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
 
@@ -82,18 +82,6 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
-
----
-
-<div align="center">
-
-## Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=dark&title_color=6e40c9&hide_border=true" alt="Linguagens Mais Utilizadas" />
-</p>
-
-</div>
 
 ---
 
