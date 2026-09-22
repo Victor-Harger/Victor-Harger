@@ -110,4 +110,4 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,181236,0d1117&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=80&section=footer"/>
