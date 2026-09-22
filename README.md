@@ -52,7 +52,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 ### Mobile, Game Development & Other
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,unity,blender,figma,arduino,swift&theme=dark" />
+<img src="https://skillicons.dev/icons?i=android,unity,blender,figma,arduino,swift&theme=dark" />
 </p>
 
 ---
