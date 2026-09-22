@@ -6,7 +6,7 @@
 
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=550\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;)](https://git.io/typing-sv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;Construindo+projetos+e+aprendendo+todos+os+dias)](https://git.io/typing-sv)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_victor_harger_)
@@ -27,33 +27,45 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-## Tecnologias
+## Tech Stack
 
-| Área                     | Tecnologias                       |
-| ------------------------ | --------------------------------- |
-| Sistemas Web             | Angular · TypeScript · HTML · CSS |
-| Back-end                 | Java · Spring Boot · C#           |
-| Scripts e automação      | Python                            |
-| Bancos de dados          | SQL Server · MySQL · MongoDB      |
-| Desenvolvimento de jogos | Unity · C#                        |
+### Backend
 
-<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,python,nodejs,postman,git&theme=dark" />
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,spring,cs,python,nodejs,mysql,mongodb,git&theme=dark" />
+### Web
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" />
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" />
+</p>
+
+### Mobile, Game Development & Other
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,unity,blender,figma,arduino,swift&theme=dark" />
 </p>
 
 ---
 
 ## Atualmente estudando
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,git,github&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
 </p>
 
-<div align="center">
+<div align="left">
 
-**Backend · APIs REST · POO · Bancos de Dados**
+**Docker · Kubernetes · AWS · Cloud Infrastructure**
 
 </div>
 
