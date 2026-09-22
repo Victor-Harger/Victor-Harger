@@ -55,6 +55,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
+
 ---
 
 ## Atualmente estudando
