@@ -3,7 +3,7 @@
 <div align="center">
 
 # Victor Gabriel Prado Harger
-[🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
+[🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
 
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
