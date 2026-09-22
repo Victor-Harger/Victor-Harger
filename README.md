@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Victor Harger
+# Victor Gabriel Prado Harger
 
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
