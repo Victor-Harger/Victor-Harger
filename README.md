@@ -6,7 +6,7 @@
 
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;Construindo+projetos+e+aprendendo+todos+os+dias)](https://git.io/typing-sv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;)](https://git.io/typing-sv)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/_victor_harger_)
