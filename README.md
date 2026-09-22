@@ -6,7 +6,7 @@
 
 **Estudante de ADS · Desenvolvedor Backend em formação**
 
-[🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
+[🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;)](https://git.io/typing-sv)
 
