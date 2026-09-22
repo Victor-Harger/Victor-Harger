@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20in%20training&descAlignY=75&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=60&fontColor=ffffff&fontAlignY=55&"/>
 
 <div align="center">
   
