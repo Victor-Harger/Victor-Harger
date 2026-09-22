@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=200&section=header&text=Victor%20Harger&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Backend%20Developer%20in%20training&descAlignY=75&descSize=18"/>
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 [🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;)](https://git.io/typing-sv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4fc3f7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs)](https://git.io/typing-sv)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:v.gabrielpradoharger@gmail.com)
@@ -115,4 +115,4 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=80&section=footer"/>
