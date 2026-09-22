@@ -17,7 +17,11 @@
 
 ---
 
+<div align="center">
+
 ## Sobre mim
+
+</div>
 
 Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac e tenho foco em desenvolvimento Backend.
 
@@ -27,7 +31,31 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
+<div align="center">
+
+## Projetos em destaque
+
+</div>
+
+<div align="center">
+
+|                                          Projeto                                          |                                       Descrição                                       |               Tecnologias              |
+| :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript`         |
+|              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
+| [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
+
+</div>
+
+---
+
+<div align="center">
+
 ## Tech Stack
+
+</div>
+
+<div align="center">
 
 ### Backend
 
@@ -58,13 +86,13 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
+<div align="center">
+
 ## Atualmente estudando
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
 </p>
-
-<div align="center">
 
 **Docker · Kubernetes · AWS · Cloud Infrastructure**
 
@@ -72,25 +100,30 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-## Projetos em destaque
+<div align="center">
 
-| Projeto                                                                                   | Descrição                                                                             | Tecnologias                            |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- |
-| [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)                   | Sistema web para gerenciamento e venda de ingressos para uma casa de shows.           | `Angular` `TypeScript`                 |
-| [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)                           | Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.       | `Java` `Spring Boot` `SQL Server` `C#` |
-| [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. | `Python` `OpenCV` `dlib`               |
+## Estatísticas
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
+<div align="center">
+
 ## Background
 
-|    |                                                                                 |
-| -- | ------------------------------------------------------------------------------- |
-| 🎓 | **ADS — Senac** *(3º semestre · previsão 2027)*                                 |
-| 🏫 | **Técnico em Desenvolvimento de Sistemas — Etec / Centro Paula Souza** *(2024)* |
-| 🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
-| 🎮 | **CS50G — Introduction to Game Development** · Harvard                          |
-| ☁️ | **AI-900 — Fundamentos de IA no Azure** · Microsoft                             |
+|     |                                                                                 |
+| :-: | :------------------------------------------------------------------------------ |
+|  🎓 | **ADS — Senac** *(3º semestre · previsão 2027)*                                 |
+|  🏫 | **Técnico em Desenvolvimento de Sistemas — Etec / Centro Paula Souza** *(2024)* |
+|  🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
+|  🎮 | **CS50G — Introduction to Game Development** · Harvard                          |
+|  ☁️ | **AI-900 — Fundamentos de IA no Azure** · Microsoft                             |
+
+</div>
 
 ---
 
