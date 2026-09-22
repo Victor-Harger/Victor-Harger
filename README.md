@@ -29,25 +29,37 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ## Tecnologias
 
-### Backend
+| Área                     | Tecnologias                       |
+| ------------------------ | --------------------------------- |
+| Sistemas Web             | Angular · TypeScript · HTML · CSS |
+| Back-end                 | Java · Spring Boot · C#           |
+| Scripts e automação      | Python                            |
+| Bancos de dados          | SQL Server · MySQL · MongoDB      |
+| Desenvolvimento de jogos | Unity · C#                        |
 
-`Java` `Spring Boot` `C#` `Python` `REST APIs`
+<br>
 
-### Frontend
-
-`Angular` `TypeScript` `JavaScript` `HTML` `CSS`
-
-### Banco de dados
-
-`SQL Server` `MySQL` `MongoDB`
-
-### Ferramentas
-
-`Git` `GitHub` `IntelliJ IDEA` `Eclipse` `VS Code`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,java,spring,cs,python,nodejs,mysql,mongodb,git&theme=dark" />
+</p>
 
 ---
 
-## Projetos
+## Atualmente estudando
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,git,github&theme=dark" />
+</p>
+
+<div align="center">
+
+**Backend · APIs REST · POO · Bancos de Dados**
+
+</div>
+
+---
+
+## Projetos em destaque
 
 | Projeto                                                                                   | Descrição                                                                             | Tecnologias                            |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------- |
@@ -57,21 +69,13 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-## Atualmente estudando
-
-* Desenvolvimento Backend com Java e Spring Boot
-* APIs REST
-* Programação Orientada a Objetos
-* Banco de dados e SQL
-* Python
-* Desenvolvimento de software
-
----
+## Estatísticas
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-Harger&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Harger&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer"/>
