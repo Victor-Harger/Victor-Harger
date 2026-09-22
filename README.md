@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6e40c980,6e40c930,0d1117&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=42&fontColor=ffffff&fontAlignY=50&fontAlign=50"/>
 
 <div align="center">
   
@@ -6,11 +6,11 @@
 
 [🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4fc3f7&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs)](https://git.io/typing-sv)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs)](https://git.io/typing-sv)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:v.gabrielpradoharger@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Victor-Harger)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.gabrielpradoharger@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Harger)
 
 </div>
 
@@ -36,9 +36,9 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 <div align="center">
 
-|                                          Projeto                                          |                                       Descrição                                       |               Tecnologias              |
+|                                          Projeto                                          |                                      Descrição                                      |              Tecnologias               |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
-|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |      Sistema web para gerenciamento e venda de ingressos para uma casa de shows.      |         `Angular` `TypeScript` `JavaScript`         |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       Sistema web para gerenciamento e venda de ingressos para uma casa de shows.       |          `Angular` `TypeScript` `JavaScript`          |
 |              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
 
@@ -113,4 +113,4 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c950&height=80&section=footer"/>
