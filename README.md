@@ -4,6 +4,7 @@
 
 # Victor Harger
 **Estudante de ADS • Desenvolvedor Full Stack em formação**
+lines=Dev+Backend+em+formação;Java+·+Spring+Boot+·+C%23+·+Python;Sistemas+Web+com+Angular;Open+to+work+🟢;Construo+coisas+que+funcionam+🛠️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_victor_harger_)
