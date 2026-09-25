@@ -1,32 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=120&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=Victor%20Gabriel%20Prado%20Harger&fontSize=38&fontColor=ffffff&fontAlignY=50&fontAlign=50&fontFamily=Raleway"/>
 <div align="center">
 
-# Victor Gabriel Prado Harger
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs)](https://git.io/typing-sv)
 
-**Systems Analysis and Development Student · Backend Developer in Training**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.gabrielpradoharger@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victor-Harger)
 
-[🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=6e40c9\&center=true\&vCenter=true\&width=600\&lines=Java+%7C+Spring+Boot+%7C+C%23;Python+%7C+SQL+%7C+REST+APIs;)](https://git.io/typing-sv)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/victor-gabriel-prado-harger)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:v.gabrielpradoharger@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Victor-Harger)
-
+[🇧🇷 PT-BR](README.md) · [🇺🇸 English](README.en.md) · [🇯🇵 日本語](README.ja.md)
 </div>
 
 ---
-
 <div align="center">
 
-## About Me
+## About me
 
 </div>
 
-I am currently studying Systems Analysis and Development at Centro Universitário Senac, with a focus on Backend Development.
+I'm currently studying Systems Analysis and Development (ADS) at Centro Universitário Senac, with a focus on Backend development.
 
-My goal is to continue developing projects that allow me to turn theoretical knowledge into functional software and build professional experience in software development.
+My goal is to keep building projects that let me turn theoretical knowledge into working software and gain professional experience in software development.
 
 ---
 
@@ -38,11 +31,29 @@ My goal is to continue developing projects that allow me to turn theoretical kno
 
 <div align="center">
 
-|                                         Project                                        |                                Description                                |              Technologies              |
-| :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :------------------------------------: |
-|         [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)        |      Web system for managing and selling tickets for an event venue.      |   `Angular` `TypeScript` `JavaScript`  |
-|             [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)            | Platform for the beauty industry focused on product sales and management. | `Java` `Spring Boot` `SQL Server` `C#` |
-| [Facial Recognition](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) |      Real-time facial recognition application using image processing.     |        `Python` `OpenCV` `dlib`        |
+|                                          Project                                          |                                      Description                                      |              Technologies               |
+| :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       Web system for managing and selling tickets for a concert venue.       |          `Angular` `TypeScript` `JavaScript`          |
+|              [Odasu Project](https://github.com/Victor-Harger/Projeto-Odasu)              |    Platform for the beauty industry, covering product sales and management.    | `Java` `Spring Boot` `SQL Server` `C#` |
+| [Facial Recognition](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Real-time facial recognition application using image processing. |        `Python` `OpenCV` `dlib`        |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎮 Games
+
+</div>
+
+<div align="center">
+
+|                                       Project                                       |                                             Description                                             |     Technologies      |
+| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------: |
+| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | Roguelike card game inspired by the classic Scoundrel, reimagined as a dungeon exploration. | `C#` `Windows Forms` |
+
+*Hobby projects, made for fun and hands-on learning — not as polished as the academic/professional projects above, but kept as a fond record.*
 
 </div>
 
@@ -87,7 +98,7 @@ My goal is to continue developing projects that allow me to turn theoretical kno
 
 <div align="center">
 
-## Currently Studying
+## Currently studying
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
@@ -103,16 +114,16 @@ My goal is to continue developing projects that allow me to turn theoretical kno
 
 ## Academic Background
 
-|     |                                                                                  |
-| :-: | :------------------------------------------------------------------------------- |
-|  🎓 | **Systems Analysis and Development — Senac** *(3rd semester · expected 2027)*    |
-|  🏫 | **Technical Degree in Systems Development — Etec / Centro Paula Souza** *(2024)* |
-|  🐍 | **CS50P — Introduction to Programming with Python** · Harvard                    |
-|  🎮 | **CS50G — Introduction to Game Development** · Harvard                           |
-|  ☁️ | **AI-900 — Azure AI Fundamentals** · Microsoft                                   |
+|     |                                                                                 |
+| :-: | :------------------------------------------------------------------------------ |
+|  🎓 | **ADS (Systems Analysis and Development) — Senac** *(3rd semester · expected 2027)* |
+|  🏫 | **Technical Diploma in Systems Development — Etec / Centro Paula Souza** *(2024)* |
+|  🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
+|  🎮 | **CS50G — Introduction to Game Development** · Harvard                          |
+|  ☁️ | **AI-900 — Microsoft Azure AI Fundamentals** · Microsoft                        |
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=80&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=80&section=footer"/>
