@@ -43,6 +43,24 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 
 <div align="center">
 
+## 🎮 Jogos
+
+</div>
+
+<div align="center">
+
+|                                       Projeto                                       |                                             Descrição                                             |     Tecnologias      |
+| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------: |
+| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | Jogo de cartas roguelike inspirado no clássico Scoundrel, reimaginado como uma exploração de dungeon. | `C#` `Windows Forms` |
+
+*Projetos de hobby, feitos por diversão e aprendizado prático — não tão polidos quanto os projetos acadêmicos/profissionais acima, mas guardados com carinho.*
+
+</div>
+
+---
+
+<div align="center">
+
 ## Tech Stack
 
 </div>
