@@ -17,25 +17,26 @@
 
 </div>
 
-現在、Centro Universitário Senacでシステム分析・開発（ADS）を専攻しており、バックエンド開発に力を入れています。
+現在、セナック大学センター(Centro Universitário Senac)で情報システム分析・開発(ADS)を学んでおり、バックエンド開発に力を入れています。
 
-理論的な知識を実際に動くソフトウェアへと落とし込むプロジェクトを継続的に開発し、開発分野でのプロフェッショナルな経験を積んでいくことを目標としています。
+理論的な知識を動くソフトウェアに変えられるプロジェクトを作り続け、開発の分野で実務経験を積むことが目標です。
 
 ---
 
 <div align="center">
 
-## 注目のプロジェクト
+## 注目プロジェクト
 
 </div>
 
 <div align="center">
 
-|                                          プロジェクト                                          |                                      説明                                      |              技術               |
+|                                          プロジェクト                                          |                                      説明                                      |              使用技術               |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
-|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       コンサート会場のチケット管理・販売システム。       |          `Angular` `TypeScript` `JavaScript`          |
-|              [Odasu プロジェクト](https://github.com/Victor-Harger/Projeto-Odasu)              |    美容業界向けの製品販売・管理プラットフォーム。    | `Java` `Spring Boot` `SQL Server` `C#` |
+|          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       コンサートホールのチケット管理・販売を行うWebシステム。       |          `Angular` `TypeScript` `JavaScript`          |
+|              [ODASUプロジェクト](https://github.com/Victor-Harger/Projeto-Odasu)              |    美容業界向けの、商品の販売・管理を行うプラットフォーム。    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [顔認識](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | 画像処理を用いたリアルタイム顔認識アプリケーション。 |        `Python` `OpenCV` `dlib`        |
+|            [Dun Nahar](https://github.com/Victor-Harger/DunNahar_ESOLANG)                | ゲーム形式のエソランゲージ(難解プログラミング言語)。謎解きでルーン文字が明らかになり、プレイヤーはコードを書いて各ルーンの働きを発見します。字句解析器・構文解析器・インタプリタをゼロから開発。 |        `Java`        |
 
 </div>
 
@@ -49,11 +50,11 @@
 
 <div align="center">
 
-|                                       プロジェクト                                       |                                             説明                                             |     技術      |
+|                                       プロジェクト                                       |                                             説明                                             |     使用技術      |
 | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------: |
-| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | クラシックカードゲーム「Scoundrel」にインスパイアされた、ダンジョン探索型のローグライクカードゲーム。 | `C#` `Windows Forms` |
+| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | 名作カードゲーム「Scoundrel」に着想を得た、ローグライク風カードゲーム。ダンジョン探索として再構築しました。 | `C#` `Windows Forms` |
 
-*趣味として、楽しみながら実践的に学ぶために作ったプロジェクトです。上記の学術・実務プロジェクトほど洗練されてはいませんが、大切に保管しています。*
+*趣味のプロジェクトで、楽しさと実践的な学びのために作りました。上記の学業・実務系プロジェクトほど洗練されてはいませんが、大切にしています。*
 
 </div>
 
@@ -94,6 +95,8 @@
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
 
+</div>
+
 ---
 
 <div align="center">
@@ -104,7 +107,7 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
 </p>
 
-**Docker · Kubernetes · AWS · Cloud Infrastructure**
+**Docker · Kubernetes · AWS · クラウドインフラ**
 
 </div>
 
@@ -112,15 +115,15 @@
 
 <div align="center">
 
-## 学歴
+## 学歴・資格
 
 |     |                                                                                 |
 | :-: | :------------------------------------------------------------------------------ |
-|  🎓 | **ADS（システム分析・開発）— Senac** *(3学期目・2027年修了予定)*                                 |
-|  🏫 | **システム開発テクニカルコース — Etec / Centro Paula Souza** *(2024年)* |
-|  🐍 | **CS50P — Pythonプログラミング入門** · ハーバード大学                   |
-|  🎮 | **CS50G — ゲーム開発入門** · ハーバード大学                          |
-|  ☁️ | **AI-900 — Microsoft Azure AI基礎** · Microsoft                             |
+|  🎓 | **情報システム分析・開発(ADS)— Senac** *(3学期在籍中 · 2027年修了予定)*                                 |
+|  🏫 | **システム開発テクニカルコース — Etec / Centro Paula Souza** *(2024年修了)* |
+|  🐍 | **CS50P — Pythonプログラミング入門** · Harvard                   |
+|  🎮 | **CS50G — ゲーム開発入門** · Harvard                          |
+|  ☁️ | **AI-900 — Azure AIの基礎** · Microsoft                             |
 
 </div>
 
