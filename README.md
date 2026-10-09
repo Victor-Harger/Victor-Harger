@@ -36,6 +36,7 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
 |          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       Sistema web para gerenciamento e venda de ingressos para uma casa de shows.       |          `Angular` `TypeScript` `JavaScript`          |
 |              [Projeto ODASU](https://github.com/Victor-Harger/Projeto-Odasu)              |    Plataforma para o setor de beleza envolvendo venda e gerenciamento de produtos.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Reconhecimento Facial](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Aplicação de reconhecimento facial em tempo real utilizando processamento de imagens. |        `Python` `OpenCV` `dlib`        |
+|            [Dun Nahar](https://github.com/Victor-Harger/DunNahar_ESOLANG)                | Esolang em forma de jogo: enigmas revelam runas e o jogador descobre o que cada uma faz escrevendo código. Lexer, parser e interpretador desenvolvidos do zero. |        `Java`        |
 
 </div>
 
@@ -93,6 +94,8 @@ Meu objetivo é continuar desenvolvendo projetos que me permitam transformar con
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
+
+</div>
 
 ---
 
