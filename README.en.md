@@ -13,13 +13,13 @@
 ---
 <div align="center">
 
-## About me
+## About Me
 
 </div>
 
-I'm currently studying Systems Analysis and Development (ADS) at Centro Universitário Senac, with a focus on Backend development.
+I'm currently studying Systems Analysis and Development at Centro Universitário Senac, with a focus on Backend development.
 
-My goal is to keep building projects that let me turn theoretical knowledge into working software and gain professional experience in software development.
+My goal is to keep building projects that let me turn theoretical knowledge into working software and to gain professional experience in software development.
 
 ---
 
@@ -31,11 +31,12 @@ My goal is to keep building projects that let me turn theoretical knowledge into
 
 <div align="center">
 
-|                                          Project                                          |                                      Description                                      |              Technologies               |
+|                                          Project                                          |                                     Description                                     |              Technologies               |
 | :---------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :------------------------------------: |
 |          [Noctis Hall](https://github.com/Victor-Harger/Site_CasaDeShow_Angular)          |       Web system for managing and selling tickets for a concert venue.       |          `Angular` `TypeScript` `JavaScript`          |
-|              [Odasu Project](https://github.com/Victor-Harger/Projeto-Odasu)              |    Platform for the beauty industry, covering product sales and management.    | `Java` `Spring Boot` `SQL Server` `C#` |
+|              [ODASU Project](https://github.com/Victor-Harger/Projeto-Odasu)              |    Platform for the beauty sector covering product sales and management.    | `Java` `Spring Boot` `SQL Server` `C#` |
 | [Facial Recognition](https://github.com/Victor-Harger/Reconhecimento_Facial_Em_Python) | Real-time facial recognition application using image processing. |        `Python` `OpenCV` `dlib`        |
+|            [Dun Nahar](https://github.com/Victor-Harger/DunNahar_ESOLANG)                | An esolang in game form: riddles reveal runes, and players discover what each one does by writing code. Lexer, parser and interpreter built from scratch. |        `Java`        |
 
 </div>
 
@@ -51,9 +52,9 @@ My goal is to keep building projects that let me turn theoretical knowledge into
 
 |                                       Project                                       |                                             Description                                             |     Technologies      |
 | :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-------------------: |
-| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | Roguelike card game inspired by the classic Scoundrel, reimagined as a dungeon exploration. | `C#` `Windows Forms` |
+| [Scoundrel Dungeon](https://github.com/Victor-Harger/_Scoundrel_Dungeon_) | Roguelike card game inspired by the classic Scoundrel, reimagined as a dungeon crawl. | `C#` `Windows Forms` |
 
-*Hobby projects, made for fun and hands-on learning — not as polished as the academic/professional projects above, but kept as a fond record.*
+*Hobby projects, made for fun and hands-on learning — not as polished as the academic/professional projects above, but kept with affection.*
 
 </div>
 
@@ -94,11 +95,13 @@ My goal is to keep building projects that let me turn theoretical knowledge into
   <img src="https://skillicons.dev/icons?i=unity,blender,figma,arduino,swift&theme=dark" />
 </p>
 
+</div>
+
 ---
 
 <div align="center">
 
-## Currently studying
+## Currently Studying
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws&theme=dark" />
@@ -112,15 +115,15 @@ My goal is to keep building projects that let me turn theoretical knowledge into
 
 <div align="center">
 
-## Academic Background
+## Education
 
 |     |                                                                                 |
 | :-: | :------------------------------------------------------------------------------ |
-|  🎓 | **ADS (Systems Analysis and Development) — Senac** *(3rd semester · expected 2027)* |
-|  🏫 | **Technical Diploma in Systems Development — Etec / Centro Paula Souza** *(2024)* |
+|  🎓 | **Systems Analysis and Development (ADS) — Senac** *(3rd semester · expected 2027)* |
+|  🏫 | **Technical Degree in Systems Development — Etec / Centro Paula Souza** *(2024)* |
 |  🐍 | **CS50P — Introduction to Programming with Python** · Harvard                   |
 |  🎮 | **CS50G — Introduction to Game Development** · Harvard                          |
-|  ☁️ | **AI-900 — Microsoft Azure AI Fundamentals** · Microsoft                        |
+|  ☁️ | **AI-900 — Azure AI Fundamentals** · Microsoft                                  |
 
 </div>
 
